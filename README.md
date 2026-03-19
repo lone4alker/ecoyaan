@@ -7,7 +7,7 @@ This project is a simplified, modern, and responsive **Checkout Flow** inspired 
 ## 🚀 Live Demo & Repository
 
 - **Repository**: https://github.com/lone4alker/ecoyaan
-- **Live Version**: - (Not deployed yet)
+- **Live Version**: - https://ecoyaan-sooty.vercel.app/
 
 ---
 
